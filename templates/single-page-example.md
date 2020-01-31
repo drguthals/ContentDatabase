@@ -25,15 +25,16 @@ e.g. `category: devops` must go into folder e.g. `/devops/my-guide.md`
 
 Available categories
 
-- `automation`
-- `cloud-native`
-- `data-ai`
+- `ai`
+- `blockchain`
+- `cloud`
+- `data-science`
 - `devops`
-- `fundamentals`
-- `infra`
 - `iot`
-- `prereqs`
-- `security`
+- `machine-learning`
+- `quantum`
+- `tools`
+- `virtual-reality`
 - `web`
 
 ## Teaser & Overlay Images

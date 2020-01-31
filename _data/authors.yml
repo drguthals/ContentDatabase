@@ -7,238 +7,29 @@ template:
     github   :
     linkedin :
 
-Ben Coleman:
-    name     : Ben Coleman
-    bio      : Cloud Solution Architect.<br/>Containers, Open source, Node.js, DevOps, automation
-    avatar   : images/authors/benc.jpg
-    email    : ben.coleman@microsoft.com
-    twitter  : BenCodeGeek
-    github   : benc-uk
-    linkedin : benc-uk
+Christopher Harrison:
+    name     : Christopher Harrison
+    bio      : AI and Web Master
+    avatar   : images/authors/rich-c.jpg
+    email    : christopher.harrison@microsoft.com
+    twitter  : geektrainer
+    github   : geektrainer
+    linkedin : geektrainer
     links:
       - label: "Website"
         icon : "fas fa-fw fa-link"
-        url  : "http://benco.io"
+        url  : "http://geektrainer.com"
 
-Richard Cheney:
-    name     : Richard Cheney
-    bio      : Cloud Solution Architect.<br/>Infrastructure as code, automation, networking, storage, compute
-    avatar   : images/authors/rich-c.jpg
-    email    : richard.cheney@microsoft.com
-    twitter  : RichCheneyAzure
-    github   : richeney
-    linkedin : richardcheney
-
-Tom Wilde:
-    name     : Tom Wilde
-    bio      : Cloud Solution Architect.<br/>Security, networking, storage, compute
-    avatar   : images/authors/tom-w.png
-    email    : tom.wilde@microsoft.com
-    twitter  : wilde_it
-    github   : towilde
-    linkedin : towilde
-
-Jason Cabot:
-    name     : Jason Cabot
-    bio      : Cloud Solution Architect.<br/>DevOps, Automation, Mobile Apps
-    avatar   : images/authors/jason-c.jpg
-    email    : Jason.Cabot@microsoft.com
-    twitter  : 
-    github   : jasoncabot-ms
-    linkedin : jasoncabot
-
-John Duckmanton:
-    name     : John Duckmanton
-    bio      :
-    avatar   : images/authors/john-d.jpg
-    email    : john.duckmanton@microsoft.com
-    twitter  :
-    github   :
-    linkedin :
-
-Dan Baker:
-    name     : Azure Dan
-    bio      : Dan Baker (aka Azure Dan) is the UK Azure regional skills evangelist
-    avatar   : images/authors/dan-b.jpg
-    email    : dan.baker@microsoft.com
-    twitter  : azuredan
-    github   :
-    linkedin :
-
-Mahesh Balija:
-    name     : Mahesh Balija
-    bio      :
-    avatar   : images/authors/mahesh-b.jpg
-    email    : Mahesh.Balija@microsoft.com
-    twitter  :
-    github   :
-    linkedin :
-
-Naveed Hussain:
-    name     : Naveed Hussain
-    bio      :
-    avatar   : images/authors/naveed-h.jpg
-    email    : naveed.hussain@microsoft.com
-    twitter  :
-    github   :
-    linkedin :
-
-Faris Haddad:
-    name     : Faris Haddad
-    bio      :
-    avatar   : images/authors/faris-h.jpg
-    email    : faris.haddad@microsoft.com
-    twitter  :
-    github   : farishaddad
-    linkedin :
-
-Robin Lester:
-    name     : Robin Lester
-    bio      :
-    avatar   : images/authors/robin-l.jpg
-    email    : robin.lester@microsoft.com
-    twitter  :
-    github   :
-    linkedin :
-
-Phil Harvey:
-    name     : Phil Harvey
-    bio      :
-    avatar   : images/authors/phil-h.jpg
-    email    : phil.harvey@microsoft.com
-    twitter  : codebeard
-    github   :
-    linkedin :
-
-Mark Harrison:
-    name     : Mark Harrison
-    bio      :
-    avatar   : images/authors/mark-h.jpg
-    email    : mark.harrison@microsoft.com
-    twitter  :
-    github   :
-    linkedin :
-
-Matt Biggs:
-    name     : Matthew Biggs
-    bio      :
-    avatar   : images/authors/matt-b.jpeg
-    email    : matthew.biggs@microsoft.com
-    twitter  : azurecloudmatt
-    github   :
-    linkedin :
-
-Giles Davies:
-    name     : Giles Davies
-    bio      :
-    avatar   : images/authors/giles-d.jpg
-    email    : giles.davies@microsoft.com
-    twitter  :
-    github   :
-    linkedin :
-
-Mike James:
-    name     : Mike James
-    bio      :
-    avatar   : images/authors/mike-james.jpg
-    email    :
-    twitter  :
-    github   :
-    linkedin :
-
-Robin-Manuel Thiel:
-    name     : Robin-Manuel Thiel
-    bio      :
-    avatar   : images/authors/robin-manuel-thiel.jpg
-    email    :
-    twitter  :
-    github   :
-    linkedin :
-
-Jonathan Lyon:
-    name     : Jonathan Lyon
-    bio      :
-    avatar   : images/authors/jonathan-lyon.jpg
-    email    : jonathan.lyon@microsoft.com
-    twitter  :
-    github   :
-    linkedin :
-
-Pankaj Meshram:
-    name     : Pankaj Meshram
-    bio      : Cloud Solution Architect.<br/>SAP on Azure
-    avatar   : images/authors/p-meshram.jpg
-    email    : pankaj.meshram@microsoft.com
-    twitter  : pankajmeshram04
-    github   : PankajMeshramCSA
-    linkedin : pankajmeshram
-
-Dave Placeholder:
-    name     : Dave Placeholder
-    bio      : Goat Herder.<br/>Cheese, goats cheese, other types of cheese, mostly cheese
-    avatar   : images/authors/harold.jpg
-    email    : dave.placeholder@microsoft.com
-    twitter  : Coffee_Dad
-    github   : monsieurfromage
-    linkedin : daveplaceholder
+Sarah Guthals:
+    name     : Sarah Guthals, PhD
+    bio      : Senior Program Manager for Reactor Programming
+    avatar   : images/authors/sarah-guthals.png
+    email    : sarah.guthals@microsoft.com
+    twitter  : sarahguthals
+    github   : sguthals
+    linkedin : sguthals
     links:
-      - label: "Blogsite"
+      - label: "Website"
         icon : "fas fa-fw fa-link"
-        url  : "http://monsieurfromageblog.com"      # Author details.
+        url  : "http://guthals.com/sarah"
 
-
-Karl Kocar:
-    name     : Karl Kocar
-    bio      : Partner Technical Architect.<br/>Focused on advanced technologies around Microsoft Teams
-    avatar   : images/authors/karl.jpg
-    email    : kakocar@microsoft.com
-    twitter  : karlkocar
-    github   : karlkocar
-    linkedin : karlkocar
-
-Jack Lewis:
-    name     : Jack Lewis
-    bio      : Partner Technical Architect.<br/>Windows 10, security (E3/E5)
-    avatar   : images/authors/jack-l.png
-    email    : jack.lewis@microsoft.com
-    github   : jalew123
-
-Steven DeQuincey:
-    name     : Steven DeQuincey
-    bio      : Partner Technical Architect.<br/>Windows 10, security (E3/E5)
-    avatar   : images/authors/sdqmugshot.jpg
-    email    : steven.dequincey@microsoft.com
-    twitter  : stevendq
-    github   : stdequin
-    linkedin : sdq
-
-Paul Buxton:
-    name     : Paul Buxton
-    bio      : Partner Technical Architect.<br/>Focused on advanced technologies around Microsoft Teams
-    avatar   : images/authors/rich-c.jpg
-    email    : paul.buxton@microsoft.com
-
-Ally Turnbull:
-    name     : Ally Turnbull
-    bio      : Cloud Solution Architect.<br/>Focused on security in Modern Workplace
-    avatar   : images/authors/ally-t.jpg
-    email    : alison.turnbull@microsoft.com
-    github   : allyt-ms
-    linkedin : turnvirtual
-
-Chris Huntingford:
-    name     : Chris Huntingford
-    bio      : Partner Technical Architect.<br/>Dynamic365 and Power Platform
-    avatar   : images/authors/chris-h.jpg
-    email    : chris.huntingford@microsoft.com
-    twitter  : tattooedcrmguy
-    github   : chrishuntingford
-    linkedin : chrishuntingford
-
-Umar Bari:
-    name     : Umar Bari
-    bio      : Partner Technical Architect.<br/>Dynamics365
-    avatar   : images/authors/umbari1.jpg
-    email    : umar.bari@microsoft.com
-    github   : umbari
-    linkedin : umbari

@@ -21,14 +21,14 @@ minimal_mistakes_skin    : "citadel"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Azure Citadel"
+title                    : "Reactor Content Database"
 logo                     : "/images/site/logo.png"
 title_separator          : "-"
 name                     : "Microsoft"
 description              : "Azure related training material developed and maintained by the technical field team at Microsoft."
 url                      : # Left empty so default used
 baseurl                  : # Left empty so default used "/"
-repository               : https://github.com/azurecitadel/azurecitadel.github.io
+repository               : https://github.com/sguthals/reactorcontentdatabase.github.io
 teaser                   : "/images/teaser/default.png"
 breadcrumbs              : false  # These do not work with the site structure
 words_per_minute         : 100
@@ -59,11 +59,11 @@ search                   : false
 # - NEED TO REVIEW THIS, DON'T THINK IT'S EVER USED ANYWHERE
 # (It does show in the feed.xml)
 author:
-  name             : "Richard Cheney"
-  avatar           : images/authors/rich-c.jpg
-  bio              : Cloud Solution Architect.<br/>Infrastructure as code, automation, networking, storage, compute
-  location         : "UK"
-  email            : richard.cheney@microsoft.com
+  name             : "Sarah Guthals"
+  avatar           : images/authors/sarah-guthals.png
+  bio              : Senior Program Manager Reactor Programming
+  location         : "USA"
+  email            : sarah.guthals@microsoft.com
 
 
 # Site Footer - Edited to include disclaimer
@@ -74,7 +74,7 @@ footer:
       url: "/disclaimer"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/azurecitadel/azurecitadel.github.io"
+      url: "https://github.com/sguthals/reactorcontentdatabase.github.io"
     - label: "Contributing"
       icon: "fas fa-fw fa-user-edit"
       url: "/contributing"

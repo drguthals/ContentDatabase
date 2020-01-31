@@ -1,55 +1,55 @@
-- name: automation
-  title: Automation
-  image: /images/categories/auto.png
-  desc: "Operate at scale using scaffolding, infrastructure as code and scripting to automate"
-
-- name: cloud-native
-  title: Cloud Native
-  image: /images/categories/containers.png
-  desc: "Understand how to build cloud native, modern apps with containers, serverless & Kubernetes"
-
-- name: data-ai
-  title: "Data & AI"
+- name: ai
+  title: Artificial Intelligence
   image: /images/categories/data-ai.png
-  desc: "Real world AI with cognitive services, bots data-analytics and machine learning"
+  desc: "Begin learning how to integrate AI into your applications and digital solutions"
+
+- name: blockchain
+  title: Blockchain
+  image: /images/categories/containers.png
+  desc: "TBD"
+
+- name: cloud
+  title: "Cloud"
+  image: /images/categories/data-ai.png
+  desc: "TBD"
+
+- name: data-science
+  title: Data Science
+  image: /images/categories/data-ai.png
+  desc: "TBD"
 
 - name: devops
   title: DevOps
   image: /images/categories/devops.png
-  desc: "Build better software faster with DevOps practices; CI & CD pipelines, automation and infra as code"
-
-- name: fundamentals
-  title: Fundamentals
-  image: /images/categories/fundamentals.png
-  desc: "Core concepts for Azure and ecosystem tooling, configuration guidance, etc."
-
-- name: infra
-  title: Infrastructure
-  image: /images/categories/infra.png
-  desc: "Virtual machines & networking are still the backbone of many cloud architectures"
+  desc: "TBD"
 
 - name: iot
   title: Internet Of Things
   image: /images/categories/iot.png
   desc: "Build production-grade IoT applications and configure your IoT solution"
 
-- name: prereqs
-  title: Pre-Requisites
+- name: machine-learning
+  title: Machine Learning
   image: /images/categories/prereqs.png
-  desc: "Get yourself set up and ready to take on the labs"
+  desc: "TBD"
 
-- name: security
-  title: Security
+- name: quantum
+  title: Quantum
   image: /images/categories/security.png
-  desc: "Securing your data & applications in the cloud. Managing access and identities with Azure AD"
+  desc: "TBD"
 
-- name: specialised
-  title: Specialised Workloads
+- name: tools
+  title: Tools
+  image: /images/categories/infra.png
+  desc: "TBD"
+
+- name: virtual-reality
+  title: Virtual Reality
   image: /images/categories/specialised.png
-  desc: "Specialised topics such as SAP, HPC and other demanding enterprise workloads"
+  desc: "TBD"
 
 - name: web
-  title: Web & Mobile
+  title: Web
   image: /images/categories/web.png
-  desc: "Developing using web & mobile platforms using RESTful APIs. Azure platform services and API management"
+  desc: "TBD"
 
