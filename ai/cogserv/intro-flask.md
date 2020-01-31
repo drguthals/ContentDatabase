@@ -130,7 +130,7 @@ Flask uses the [Jinja template engine](https://jinja.palletsprojects.com/en/2.10
 
 ### Control flow expressions in Jinja
 
-<!-- Commenting this out until I figured out the right syntax to avoid a compile error In the above example, `{{ }}` was used to contain a string which was added to the HTML. With Jinja you can add dynamic code by using `{% %}`. You can add `if` statements to your HTML templates by using the following: -->
+Commenting this out until I figured out the right syntax to avoid a compile error In the above example, `{{ }}` was used to contain a string which was added to the HTML. With Jinja you can add dynamic code by using `curly brace percent sign space percent sign curly brace`. You can add `if` statements to your HTML templates by using the following:
 
 ``` html
 {% if message %}
