@@ -10,7 +10,7 @@ template:
 Christopher Harrison:
     name     : Christopher Harrison
     bio      : AI and Web Master
-    avatar   : images/authors/rich-c.jpg
+    avatar   : images/authors/christopher-harrison.jpeg
     email    : christopher.harrison@microsoft.com
     twitter  : geektrainer
     github   : geektrainer
@@ -32,4 +32,17 @@ Sarah Guthals:
       - label: "Website"
         icon : "fas fa-fw fa-link"
         url  : "http://guthals.com/sarah"
+
+Scott Coulton:
+    name     : Scott Coulton
+    bio      : Principal Cloud Advocate
+    avatar   : images/authors/scott-coulton.jpeg
+    email    : scott.coulton@microsoft.com
+    twitter  : scottcoulton
+    github   : scotty-c
+    linkedin : scott-coulton-22864813
+    links:
+      - label: "Blog"
+        icon : "fas fa-fw fa-link"
+        url  : "https://medium.com/@scott.coulton"
 
